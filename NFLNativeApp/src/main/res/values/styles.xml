@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+
+        <!--<item name="colorPrimary">@color/UnionLight</item>-->
+
+        <item name="colorPrimary">@color/Headlight</item>
+        <!-- Primary dark theme color of the app (sets color of status bar) -->
+        <item name="colorPrimaryDark">@color/AmericanBlue</item>
+        <!--<item name="colorPrimaryDark">@color/RITorange</item>-->
+        <!--<item name="colorAccent">@color/RITorange</item>-->
+        <!-- Background color of buttons in the app -->
+        <!--<item name="colorButtonNormal">#41d1c2</item>-->
+        <item name="colorButtonNormal">#0F4D87</item>
+
+        <item name="actionMenuTextColor">#FFFFFF</item>
+    </style>
+
+</resources>

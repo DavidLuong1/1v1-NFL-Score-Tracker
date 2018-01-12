@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="RITorange">#f36e21</color>
+    <color name="Headlight">#ffde70</color>
+    <color name="RITbrown">#513127</color>
+    <color name="UnionDark">#822433</color>
+    <color name="UnionLight">#E4E2D2</color>
+
+    <!-- My Colors -->
+    <color name="AmericanBlue">#04288f</color>
+    <color name="AmericanRed">#5C0D03</color>
+    <color name="appBackgroundColor">#e2e2e2</color>
+    <color name="packersColor">#236430</color>
+</resources>

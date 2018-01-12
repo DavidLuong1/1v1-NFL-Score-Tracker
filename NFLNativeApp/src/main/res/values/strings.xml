@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFL Score Tracker</string>
+    <string name="action_settings">Teams</string>
+    <string name="total">Final Score</string>
+    <string name="Packers">GREEN BAY PACKERS</string>
+    <string name="_3_points">Field Goals</string>
+    <string name="_6_points">Touch Down</string>
+    <string name="_0_points">0</string>
+    <string name="_1_point">Extra Point</string>
+    <string name="Falcons">ATLANTA FALCONS</string>
+</resources>
